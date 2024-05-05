@@ -1,0 +1,44 @@
+
+
+
+		CONSTRUCTOR    				 VS         				METHOD
+		
+ The Constructor name should be							You can Give any name to Constructor.
+ same as of the class name		
+ 
+ 
+ The Constructor do not have any type					Method do have type.	
+ 
+ You don't need to call a Constructor					The method should be called.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
